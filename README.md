@@ -14,6 +14,12 @@ Remova is a full-stack web application that allows users to remove image backgro
 
 ---
 
+## 🌐 Live Demo
+
+👉 [**Remova App Live**](https://remova.onrender.com/)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -100,7 +106,7 @@ npm start
 
 ```env
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-VITE_BACKEND_URL=http://localhost:4000
+VITE_BACKEND_URL=your_backend_url
 VITE_RAZORPAY_KEY_ID=your_razorpay_key
 ```
 
@@ -132,8 +138,16 @@ NODE_ENV=production
 ---
 
 ## 📸 Screenshots
+<img width="1729" height="835" alt="Screenshot 2025-07-25 221528" src="https://github.com/user-attachments/assets/dee4e2b4-8b8c-4089-a341-bb1ff6a6e988" />
+<img width="1743" height="620" alt="Screenshot 2025-07-25 221533" src="https://github.com/user-attachments/assets/dfd28af2-26d6-4604-8676-1275937766eb" />
+<img width="1785" height="869" alt="Screenshot 2025-07-25 221543" src="https://github.com/user-attachments/assets/6625bacd-a092-4369-8018-6984748bb9e9" />
+<img width="1812" height="876" alt="Screenshot 2025-07-25 221614" src="https://github.com/user-attachments/assets/95f4b5fd-6305-483b-82ef-f6be6088eedd" />
+<img width="1735" height="766" alt="Screenshot 2025-07-25 221636" src="https://github.com/user-attachments/assets/0cb3de8d-c5e5-479e-8d9a-ab10c366c922" />
+<img width="1895" height="1012" alt="Screenshot 2025-07-25 221704" src="https://github.com/user-attachments/assets/61ed40d4-0720-4e25-98bb-8c122c06b2cf" />
+<img width="1848" height="890" alt="Screenshot 2025-07-25 221718" src="https://github.com/user-attachments/assets/42aa784f-86e6-4451-8259-a9acffe68a3b" />
+<img width="1600" height="865" alt="image" src="https://github.com/user-attachments/assets/3e3f3298-ba36-4347-9478-aed55bb55b26" />
 
-> *(Add screenshots of your homepage, result page, and credit page here for better showcase)*
+
 
 ---
 
@@ -142,13 +156,8 @@ NODE_ENV=production
 * [ ] Add drag-and-drop support for image uploads
 * [ ] Show credit usage history
 * [ ] Dark mode toggle
-* [ ] Deploy to Render / Vercel / Railway
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
