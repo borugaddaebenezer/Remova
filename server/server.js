@@ -19,7 +19,8 @@ app.use(express.json());
 app.use(cors());
 
 //API routes
-// app.get("/", (req, res) => res.send("API Working"));
+app.get("/healthz", (req, res) => res.send("OK"));
+
 app.use("/api/user", userRouter);
 app.use("/api/image", imageRouter);
 
