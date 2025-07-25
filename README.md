@@ -171,7 +171,7 @@ NODE_ENV=production
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **\[Your Name Here]**
+Built by [@borugaddaebenezer](https://github.com/borugaddaebenezer)
 
 > [LinkedIn](www.linkedin.com/in/ebenezer-borugadda-5481242b6) • [Portfolio](https://yourportfolio.com)
 
